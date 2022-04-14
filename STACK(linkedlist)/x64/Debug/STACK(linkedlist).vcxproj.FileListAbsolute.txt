@@ -1,0 +1,2 @@
+D:\DataStructure\code\STACK(linkedlist)\x64\Debug\STACK(linkedlist).exe
+D:\DataStructure\code\STACK(linkedlist)\x64\Debug\STACK(linkedlist).pdb
